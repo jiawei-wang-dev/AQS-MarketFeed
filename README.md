@@ -1,0 +1,16 @@
+# AQS-MarketFeed
+
+Machine-generated, read-only market research data for AQS consumers. This public repository contains sanitized calculation results only; the MarketData source code and private configuration remain private.
+
+## ChatGPT Read Contract
+
+1. GET `latest/health.json`.
+2. If `research_usable=true`, GET `latest/aqs_decision_bundle.json`.
+3. Verify `run_id`, `as_of`, freshness, and the manifest checksum.
+4. After market close, also require `discovery_usable=true` before using Discovery results.
+5. `execution_usable=false` does not prevent market research.
+6. This feed contains no user account, holdings, cost, order, or transaction data.
+
+Read order: health → bundle → brief (optional).
+
+This is market research data only. It is not a personal portfolio, trade recommendation, account system, or automatic-trading service.

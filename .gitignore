@@ -1,0 +1,11 @@
+.env
+*.db
+*.sqlite
+*.parquet
+logs/
+cookies/
+tokens/
+raw/
+data/
+private/
+screenshots/
