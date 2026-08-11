@@ -261,12 +261,12 @@
   "execution_status": "LOW",
   "feed_version": "MARKET-FEED-v1",
   "freshness": {
-    "age_seconds": 4278.601767,
+    "age_seconds": 4381.326071,
     "expected_slot": "1520_DISCOVERY",
     "latest_slot": "1520_DISCOVERY",
     "stale": false
   },
-  "generated_at": "2026-08-11T22:20:39.943857+08:00",
+  "generated_at": "2026-08-11T22:22:22.668161+08:00",
   "industry": {
     "count": 31,
     "daily_bottom5": [

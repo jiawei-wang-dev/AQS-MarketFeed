@@ -13,4 +13,11 @@ Machine-generated, read-only market research data for AQS consumers. This public
 
 Read order: health → bundle → brief (optional).
 
+Fixed endpoints:
+
+- `https://raw.githubusercontent.com/jiawei-wang-dev/AQS-MarketFeed/main/latest/health.json`
+- `https://raw.githubusercontent.com/jiawei-wang-dev/AQS-MarketFeed/main/latest/aqs_decision_bundle.json`
+- `https://raw.githubusercontent.com/jiawei-wang-dev/AQS-MarketFeed/main/latest/chatgpt_market_brief.md`
+- `https://raw.githubusercontent.com/jiawei-wang-dev/AQS-MarketFeed/main/latest/manifest.json`
+
 This is market research data only. It is not a personal portfolio, trade recommendation, account system, or automatic-trading service.
