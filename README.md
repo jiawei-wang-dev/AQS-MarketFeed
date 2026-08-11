@@ -8,7 +8,7 @@ Machine-generated, read-only market research data for AQS consumers. This public
 2. If `research_usable=true`, GET `latest/aqs_decision_bundle.json`.
 3. Verify `run_id`, `as_of`, freshness, and the manifest checksum.
 4. After market close, also require `discovery_usable=true` before using Discovery results.
-5. `execution_usable=false` does not prevent market research.
+5. `research_actionable=true` permits directional research actions even when `execution_usable=false`; exact prices, position sizes, fills, and automated trades remain forbidden.
 6. This feed contains no user account, holdings, cost, order, or transaction data.
 
 Read order: health → bundle → brief (optional). Use GitHub Pages first; Raw GitHub is the backup route.
