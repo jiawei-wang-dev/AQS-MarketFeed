@@ -11,9 +11,16 @@ Machine-generated, read-only market research data for AQS consumers. This public
 5. `execution_usable=false` does not prevent market research.
 6. This feed contains no user account, holdings, cost, order, or transaction data.
 
-Read order: health → bundle → brief (optional).
+Read order: health → bundle → brief (optional). Use GitHub Pages first; Raw GitHub is the backup route.
 
-Fixed endpoints:
+Primary Pages endpoints:
+
+- `https://jiawei-wang-dev.github.io/AQS-MarketFeed/latest/health.json`
+- `https://jiawei-wang-dev.github.io/AQS-MarketFeed/latest/aqs_decision_bundle.json`
+- `https://jiawei-wang-dev.github.io/AQS-MarketFeed/latest/health.html`
+- `https://jiawei-wang-dev.github.io/AQS-MarketFeed/latest/bundle.html`
+
+Backup Raw endpoints:
 
 - `https://raw.githubusercontent.com/jiawei-wang-dev/AQS-MarketFeed/main/latest/health.json`
 - `https://raw.githubusercontent.com/jiawei-wang-dev/AQS-MarketFeed/main/latest/aqs_decision_bundle.json`

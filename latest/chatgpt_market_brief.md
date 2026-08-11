@@ -2,8 +2,9 @@
 
 Run ID: 20260811-1520-DISCOVERY-REPLAY-v1
 Slot: 1520_DISCOVERY
-As of: 2026-08-11T21:09:21.342090+08:00
+As of: 2026-08-11T22:53:58.011286+08:00
 Research usable: True
+Research actionable: True
 Discovery usable: True
 Execution usable: False
 Close state: PARTIAL_RESEARCH
