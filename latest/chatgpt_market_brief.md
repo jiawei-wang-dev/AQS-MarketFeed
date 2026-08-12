@@ -2,16 +2,16 @@
 
 ## 1. System Health
 
-- Run: 20260812-1428-AQS-MD-v1 (1428)
+- Run: 20260812-1510-AQS-MD-v1 (1510)
 - Run type: None; validation_only=False; eligible_for_forward_metrics=False
-- Feed generated: 2026-08-12T14:31:30.057257+08:00; feed age=0.0 seconds
-- Market snapshot: 2026-08-12T14:30:50.248896+08:00; market age=39.808361 seconds; stale=False
-- Formal close: WAITING; baseline=2026-08-10
+- Feed generated: 2026-08-12T15:13:56.350243+08:00; feed age=0.0 seconds
+- Market snapshot: 2026-08-12T15:12:31.069237+08:00; market age=85.281006 seconds; stale=False
+- Formal close: SUCCESS; baseline=2026-08-12
 - Research actionable: True; execution usable: False
 
 ## 2. Market State
 
-- Breadth: STRONG (75.01%; 4157 up / 1252 down / 133 flat)
+- Breadth: STRONG (74.49%; 4128 up / 1279 down / 135 flat)
 - Daily leaders: 
 - Trend leaders: 
 - Improving: None
@@ -31,11 +31,6 @@
 
 ## 6. Next-Day Watchlist
 
-- 学大教育 000526 — READY_FOR_CONFIRMATION
-- 紫金矿业 601899 — READY_FOR_CONFIRMATION
-- 中宠股份 002891 — READY_FOR_CONFIRMATION
-- 铜陵有色 000630 — READY_FOR_CONFIRMATION
-- 海南海药 000566 — READY_FOR_CONFIRMATION
 
 ## 7. Data Limitations
 
