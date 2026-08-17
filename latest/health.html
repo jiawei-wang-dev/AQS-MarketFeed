@@ -1,16 +1,16 @@
 <!doctype html>
-<html><head><meta charset="utf-8"><title>AQS Health</title></head><body><h1>AQS Market Feed Health</h1><dl><dt>latest_run_id</dt><dd>&quot;20260817-1428-AQS-MD-v1&quot;</dd>
-<dt>latest_slot</dt><dd>&quot;1428&quot;</dd>
-<dt>as_of</dt><dd>&quot;2026-08-17T14:31:00.312068+08:00&quot;</dd>
-<dt>freshness</dt><dd>{&quot;feed_generated_at&quot;: &quot;2026-08-17T14:31:41.594294+08:00&quot;, &quot;feed_age_seconds&quot;: 0.0, &quot;feed_stale&quot;: false, &quot;market_snapshot_as_of&quot;: &quot;2026-08-17T14:31:00.312068+08:00&quot;, &quot;market_snapshot_age_seconds&quot;: 41.282226, &quot;market_snapshot_stale&quot;: false, &quot;market_data_stale&quot;: false, &quot;latest_formal_close_date&quot;: &quot;2026-08-12&quot;, &quot;formal_close_age_trading_days&quot;: 3, &quot;formal_close_ready&quot;: false, &quot;formal_close_stale&quot;: true, &quot;expected_slot&quot;: &quot;1428&quot;, &quot;latest_slot&quot;: &quot;1428&quot;, &quot;stale&quot;: false, &quot;stale_semantics&quot;: &quot;DEPRECATED_ALIAS_OF_market_data_stale&quot;}</dd>
-<dt>research_status</dt><dd>&quot;DEGRADED&quot;</dd>
+<html><head><meta charset="utf-8"><title>AQS Health</title></head><body><h1>AQS Market Feed Health</h1><dl><dt>latest_run_id</dt><dd>&quot;20260817-1510-AQS-MD-v1&quot;</dd>
+<dt>latest_slot</dt><dd>&quot;1510&quot;</dd>
+<dt>as_of</dt><dd>&quot;2026-08-17T15:12:34.965074+08:00&quot;</dd>
+<dt>freshness</dt><dd>{&quot;feed_generated_at&quot;: &quot;2026-08-17T15:14:05.530091+08:00&quot;, &quot;feed_age_seconds&quot;: 0.0, &quot;feed_stale&quot;: false, &quot;market_snapshot_as_of&quot;: &quot;2026-08-17T15:12:34.965074+08:00&quot;, &quot;market_snapshot_age_seconds&quot;: 90.565017, &quot;market_snapshot_stale&quot;: false, &quot;market_data_stale&quot;: false, &quot;latest_formal_close_date&quot;: &quot;2026-08-17&quot;, &quot;formal_close_age_trading_days&quot;: 0, &quot;formal_close_ready&quot;: true, &quot;formal_close_stale&quot;: false, &quot;expected_slot&quot;: &quot;1510&quot;, &quot;latest_slot&quot;: &quot;1510&quot;, &quot;stale&quot;: false, &quot;stale_semantics&quot;: &quot;DEPRECATED_ALIAS_OF_market_data_stale&quot;}</dd>
+<dt>research_status</dt><dd>&quot;READY&quot;</dd>
 <dt>discovery_status</dt><dd>&quot;DEGRADED&quot;</dd>
-<dt>formal_close_ready</dt><dd>false</dd>
+<dt>formal_close_ready</dt><dd>true</dd>
 <dt>execution_status</dt><dd>&quot;LOW&quot;</dd>
 <dt>delivery_status</dt><dd>&quot;PASS&quot;</dd></dl><pre id="aqs-health-json">{
-  "age_seconds_at_publish": 41.282226,
-  "as_of": "2026-08-17T14:31:00.312068+08:00",
-  "close_state": "NOT_READY",
+  "age_seconds_at_publish": 90.565017,
+  "as_of": "2026-08-17T15:12:34.965074+08:00",
+  "close_state": "FORMAL",
   "consumer_guidance": {
     "delivery_routes": {
       "backup": {
@@ -35,8 +35,8 @@
       "brief_optional"
     ],
     "replay_warning": "REPLAY_VALIDATION is validation evidence only and is never eligible for forward metrics.",
-    "research_actionable": false,
-    "research_usable": false
+    "research_actionable": true,
+    "research_usable": true
   },
   "delivery_routes": {
     "backup": {
@@ -55,49 +55,49 @@
   "delivery_status": "PASS",
   "discovery_status": "DEGRADED",
   "discovery_usable": false,
-  "end_to_end_status": "DEGRADED",
+  "end_to_end_status": "READY",
   "execution_status": "LOW",
   "execution_usable": false,
   "feed_age_seconds_at_publish": 0.0,
   "feed_status": "PASS",
   "feed_version": "MARKET-FEED-v2",
   "formal_close": {
-    "baseline_committed": false,
-    "baseline_date": "2026-08-12",
+    "baseline_committed": true,
+    "baseline_date": "2026-08-17",
     "cutoff_at": "2026-08-17T17:30:00+08:00",
     "failure_reason": null,
-    "final_status": "WAITING",
-    "initial_attempt_at": "2026-08-17T14:31:00.312068+08:00",
-    "last_attempt_at": "2026-08-17T14:31:00.312068+08:00",
+    "final_status": "SUCCESS",
+    "initial_attempt_at": "2026-08-17T15:13:38.704782+08:00",
+    "last_attempt_at": "2026-08-17T15:13:38.704782+08:00",
     "next_retry_at": null,
     "retry_count": 0
   },
-  "formal_close_ready": false,
+  "formal_close_ready": true,
   "freshness": {
-    "expected_slot": "1428",
+    "expected_slot": "1510",
     "feed_age_seconds": 0.0,
-    "feed_generated_at": "2026-08-17T14:31:41.594294+08:00",
+    "feed_generated_at": "2026-08-17T15:14:05.530091+08:00",
     "feed_stale": false,
-    "formal_close_age_trading_days": 3,
-    "formal_close_ready": false,
-    "formal_close_stale": true,
-    "latest_formal_close_date": "2026-08-12",
-    "latest_slot": "1428",
+    "formal_close_age_trading_days": 0,
+    "formal_close_ready": true,
+    "formal_close_stale": false,
+    "latest_formal_close_date": "2026-08-17",
+    "latest_slot": "1510",
     "market_data_stale": false,
-    "market_snapshot_age_seconds": 41.282226,
-    "market_snapshot_as_of": "2026-08-17T14:31:00.312068+08:00",
+    "market_snapshot_age_seconds": 90.565017,
+    "market_snapshot_as_of": "2026-08-17T15:12:34.965074+08:00",
     "market_snapshot_stale": false,
     "stale": false,
     "stale_semantics": "DEPRECATED_ALIAS_OF_market_data_stale"
   },
-  "generated_at": "2026-08-17T14:31:41.594294+08:00",
-  "latest_run_id": "20260817-1428-AQS-MD-v1",
-  "latest_slot": "1428",
-  "market_snapshot_age_seconds_at_publish": 41.282226,
-  "marketdata_status": "DEGRADED",
-  "research_actionable": false,
-  "research_status": "DEGRADED",
-  "research_usable": false,
+  "generated_at": "2026-08-17T15:14:05.530091+08:00",
+  "latest_run_id": "20260817-1510-AQS-MD-v1",
+  "latest_slot": "1510",
+  "market_snapshot_age_seconds_at_publish": 90.565017,
+  "marketdata_status": "READY",
+  "research_actionable": true,
+  "research_status": "READY",
+  "research_usable": true,
   "sample_status": {
     "eligible_for_forward_metrics": false,
     "formal_forward_sample": false,
