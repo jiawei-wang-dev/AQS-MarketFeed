@@ -2,16 +2,16 @@
 
 ## 1. System Health
 
-- Run: 20260813-0933-AQS-MD-v1 (0933)
+- Run: 20260817-0933-AQS-MD-v1 (0933)
 - Run type: None; validation_only=False; eligible_for_forward_metrics=False
-- Feed generated: 2026-08-14T18:22:38.673022+08:00; feed age=0.0 seconds
-- Market snapshot: 2026-08-13T09:33:58.637119+08:00; market age=118120.035903 seconds; stale=True
-- Formal close: FAILED_AFTER_CUTOFF; baseline=None
+- Feed generated: 2026-08-17T09:36:18.297113+08:00; feed age=0.0 seconds
+- Market snapshot: 2026-08-17T09:35:35.198510+08:00; market age=43.098603 seconds; stale=False
+- Formal close: WAITING; baseline=2026-08-12
 - Research actionable: False; execution usable: False
 
 ## 2. Market State
 
-- Breadth: WEAK (0.0%; 0 up / 0 down / 0 flat)
+- Breadth: WEAK (29.12%; 1614 up / 3743 down / 186 flat)
 - Daily leaders: 
 - Trend leaders: 
 - Improving: None
@@ -31,11 +31,6 @@
 
 ## 6. Next-Day Watchlist
 
-- 新大洲A 000571 — READY_FOR_CONFIRMATION
-- 智度股份 000676 — READY_FOR_CONFIRMATION
-- 学大教育 000526 — READY_FOR_CONFIRMATION
-- 藏格矿业 000408 — READY_FOR_CONFIRMATION
-- 中百集团 000759 — READY_FOR_CONFIRMATION
 
 ## 7. Data Limitations
 
