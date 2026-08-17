@@ -1,5 +1,5 @@
 {
-  "age_seconds_at_publish": 90.565017,
+  "age_seconds_at_publish": 638.96743,
   "as_of": "2026-08-17T15:12:34.965074+08:00",
   "close_state": "FORMAL",
   "consumer_guidance": {
@@ -17,7 +17,7 @@
         "type": "GITHUB_PAGES"
       }
     },
-    "discovery_usable": false,
+    "discovery_usable": true,
     "execution_usable": false,
     "freshness_warning": "Do not infer market freshness from feed_generated_at; use market_snapshot_as_of and market_snapshot_age_seconds.",
     "recommended_read_order": [
@@ -44,8 +44,8 @@
     }
   },
   "delivery_status": "PASS",
-  "discovery_status": "DEGRADED",
-  "discovery_usable": false,
+  "discovery_status": "READY",
+  "discovery_usable": true,
   "end_to_end_status": "READY",
   "execution_status": "LOW",
   "execution_usable": false,
@@ -65,37 +65,40 @@
   },
   "formal_close_ready": true,
   "freshness": {
-    "expected_slot": "1510",
+    "expected_slot": "1520_DISCOVERY",
     "feed_age_seconds": 0.0,
-    "feed_generated_at": "2026-08-17T15:14:05.530091+08:00",
+    "feed_generated_at": "2026-08-17T15:23:13.932504+08:00",
     "feed_stale": false,
     "formal_close_age_trading_days": 0,
     "formal_close_ready": true,
     "formal_close_stale": false,
     "latest_formal_close_date": "2026-08-17",
-    "latest_slot": "1510",
-    "market_data_stale": false,
-    "market_snapshot_age_seconds": 90.565017,
+    "latest_slot": "1520_DISCOVERY",
+    "market_data_stale": true,
+    "market_snapshot_age_seconds": 638.96743,
     "market_snapshot_as_of": "2026-08-17T15:12:34.965074+08:00",
-    "market_snapshot_stale": false,
-    "stale": false,
+    "market_snapshot_stale": true,
+    "stale": true,
     "stale_semantics": "DEPRECATED_ALIAS_OF_market_data_stale"
   },
-  "generated_at": "2026-08-17T15:14:05.530091+08:00",
-  "latest_run_id": "20260817-1510-AQS-MD-v1",
-  "latest_slot": "1510",
-  "market_snapshot_age_seconds_at_publish": 90.565017,
-  "marketdata_status": "READY",
+  "generated_at": "2026-08-17T15:23:13.932504+08:00",
+  "latest_run_id": "20260817-1520-DISCOVERY-v1",
+  "latest_slot": "1520_DISCOVERY",
+  "market_snapshot_age_seconds_at_publish": 638.96743,
+  "marketdata_status": "STALE",
   "research_actionable": true,
   "research_status": "READY",
   "research_usable": true,
   "sample_status": {
     "eligible_for_forward_metrics": false,
     "formal_forward_sample": false,
-    "forward_sample": false,
-    "run_type": null,
+    "forward_sample": true,
+    "run_type": "FORWARD_DISCOVERY",
     "validation_only": false
   },
   "schema_version": "1.1",
-  "warnings": []
+  "warnings": [
+    "HISTORY_CONTINUITY_NOT_READY",
+    "PRICE_HISTORY_INTEGRITY_DEGRADED"
+  ]
 }
