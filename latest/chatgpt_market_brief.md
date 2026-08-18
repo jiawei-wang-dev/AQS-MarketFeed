@@ -2,16 +2,16 @@
 
 ## 1. System Health
 
-- Run: 20260818-1428-AQS-MD-v1 (1428)
+- Run: 20260818-1510-AQS-MD-v1 (1510)
 - Run type: None; validation_only=False; eligible_for_forward_metrics=False
-- Feed generated: 2026-08-18T14:31:35.060405+08:00; feed age=0.0 seconds
-- Market snapshot: 2026-08-18T14:30:50.978278+08:00; market age=44.082127 seconds; stale=False
-- Formal close: WAITING; baseline=2026-08-17
+- Feed generated: 2026-08-18T15:13:47.274108+08:00; feed age=0.0 seconds
+- Market snapshot: 2026-08-18T15:12:18.104233+08:00; market age=89.169875 seconds; stale=False
+- Formal close: SUCCESS; baseline=2026-08-18
 - Research actionable: True; execution usable: False
 
 ## 2. Market State
 
-- Breadth: WEAK (37.01%; 2052 up / 3360 down / 132 flat)
+- Breadth: WEAK (38.24%; 2120 up / 3292 down / 132 flat)
 - Daily leaders: 
 - Trend leaders: 
 - Improving: None
@@ -31,11 +31,6 @@
 
 ## 6. Next-Day Watchlist
 
-- 盈趣科技 002925 — READY_FOR_CONFIRMATION
-- 金诚信 603979 — READY_FOR_CONFIRMATION
-- 敦煌种业 600354 — READY_FOR_CONFIRMATION
-- 赤峰黄金 600988 — READY_FOR_CONFIRMATION
-- 北方华创 002371 — READY_FOR_CONFIRMATION
 
 ## 7. Data Limitations
 
