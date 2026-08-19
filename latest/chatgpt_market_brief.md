@@ -2,16 +2,16 @@
 
 ## 1. System Health
 
-- Run: 20260819-1428-AQS-MD-v1 (1428)
+- Run: 20260819-1510-AQS-MD-v1 (1510)
 - Run type: None; validation_only=False; eligible_for_forward_metrics=False
-- Feed generated: 2026-08-19T14:31:53.083726+08:00; feed age=0.0 seconds
-- Market snapshot: 2026-08-19T14:31:02.734351+08:00; market age=50.349375 seconds; stale=False
-- Formal close: WAITING; baseline=2026-08-18
+- Feed generated: 2026-08-19T15:13:15.744130+08:00; feed age=0.0 seconds
+- Market snapshot: 2026-08-19T15:11:47.493649+08:00; market age=88.250481 seconds; stale=False
+- Formal close: SUCCESS; baseline=2026-08-19
 - Research actionable: True; execution usable: False
 
 ## 2. Market State
 
-- Breadth: WEAK (7.41%; 411 up / 5100 down / 35 flat)
+- Breadth: WEAK (8.08%; 448 up / 5069 down / 29 flat)
 - Daily leaders: 
 - Trend leaders: 
 - Improving: None
@@ -31,11 +31,6 @@
 
 ## 6. Next-Day Watchlist
 
-- 东方盛虹 000301 — READY_FOR_CONFIRMATION
-- 盈趣科技 002925 — READY_FOR_CONFIRMATION
-- 桐昆股份 601233 — READY_FOR_CONFIRMATION
-- 博通集成 603068 — READY_FOR_CONFIRMATION
-- 华天酒店 000428 — READY_FOR_CONFIRMATION
 
 ## 7. Data Limitations
 
