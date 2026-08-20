@@ -4,8 +4,8 @@
 
 - Run: 20260820-1428-AQS-MD-v1 (1428)
 - Run type: None; validation_only=False; eligible_for_forward_metrics=False
-- Feed generated: 2026-08-20T14:33:17.481017+08:00; feed age=0.0 seconds
-- Market snapshot: 2026-08-20T14:32:20.706202+08:00; market age=56.774815 seconds; stale=False
+- Feed generated: 2026-08-20T15:52:11.312067+08:00; feed age=0.0 seconds
+- Market snapshot: 2026-08-20T14:32:20.706202+08:00; market age=4790.605865 seconds; stale=True
 - Formal close: WAITING; baseline=2026-08-19
 - Research actionable: True; execution usable: False
 
