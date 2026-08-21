@@ -2,16 +2,16 @@
 
 ## 1. System Health
 
-- Run: 20260820-1428-AQS-MD-v1 (1428)
+- Run: 20260821-1510-AQS-MD-v1 (1510)
 - Run type: None; validation_only=False; eligible_for_forward_metrics=False
-- Feed generated: 2026-08-20T15:52:11.312067+08:00; feed age=0.0 seconds
-- Market snapshot: 2026-08-20T14:32:20.706202+08:00; market age=4790.605865 seconds; stale=True
-- Formal close: WAITING; baseline=2026-08-19
+- Feed generated: 2026-08-21T15:13:34.834094+08:00; feed age=0.0 seconds
+- Market snapshot: 2026-08-21T15:12:10.794854+08:00; market age=84.03924 seconds; stale=False
+- Formal close: SUCCESS; baseline=2026-08-21
 - Research actionable: True; execution usable: False
 
 ## 2. Market State
 
-- Breadth: STRONG (73.41%; 4072 up / 1393 down / 82 flat)
+- Breadth: BALANCED (45.15%; 2505 up / 2861 down / 182 flat)
 - Daily leaders: 
 - Trend leaders: 
 - Improving: None
@@ -31,11 +31,6 @@
 
 ## 6. Next-Day Watchlist
 
-- 平煤股份 601666 — READY_FOR_CONFIRMATION
-- 昊华能源 601101 — READY_FOR_CONFIRMATION
-- 东方海洋 002086 — READY_FOR_CONFIRMATION
-- 荣安地产 000517 — READY_FOR_CONFIRMATION
-- 荣丰控股 000668 — READY_FOR_CONFIRMATION
 
 ## 7. Data Limitations
 
