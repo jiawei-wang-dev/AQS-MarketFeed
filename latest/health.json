@@ -1,7 +1,7 @@
 {
-  "age_seconds_at_publish": 2559.092482,
-  "as_of": "2026-08-21T15:12:10.794854+08:00",
-  "close_state": "FORMAL",
+  "age_seconds_at_publish": 83.893576,
+  "as_of": "2026-08-24T09:36:00.355984+08:00",
+  "close_state": "NOT_READY",
   "consumer_guidance": {
     "delivery_routes": {
       "backup": {
@@ -17,7 +17,7 @@
         "type": "GITHUB_PAGES"
       }
     },
-    "discovery_usable": true,
+    "discovery_usable": false,
     "execution_usable": false,
     "freshness_warning": "Do not infer market freshness from feed_generated_at; use market_snapshot_as_of and market_snapshot_age_seconds.",
     "recommended_read_order": [
@@ -44,8 +44,8 @@
     }
   },
   "delivery_status": "PASS",
-  "discovery_status": "READY",
-  "discovery_usable": true,
+  "discovery_status": "DEGRADED",
+  "discovery_usable": false,
   "end_to_end_status": "READY",
   "execution_status": "LOW",
   "execution_usable": false,
@@ -53,52 +53,49 @@
   "feed_status": "PASS",
   "feed_version": "MARKET-FEED-v2",
   "formal_close": {
-    "baseline_committed": true,
+    "baseline_committed": false,
     "baseline_date": "2026-08-21",
-    "cutoff_at": "2026-08-21T17:30:00+08:00",
+    "cutoff_at": "2026-08-24T17:30:00+08:00",
     "failure_reason": null,
-    "final_status": "SUCCESS",
-    "initial_attempt_at": "2026-08-21T15:13:10.059227+08:00",
-    "last_attempt_at": "2026-08-21T15:13:10.059227+08:00",
+    "final_status": "WAITING",
+    "initial_attempt_at": "2026-08-24T09:36:00.355984+08:00",
+    "last_attempt_at": "2026-08-24T09:36:00.355984+08:00",
     "next_retry_at": null,
     "retry_count": 0
   },
-  "formal_close_ready": true,
+  "formal_close_ready": false,
   "freshness": {
-    "expected_slot": "1520_DISCOVERY",
+    "expected_slot": "0933",
     "feed_age_seconds": 0.0,
-    "feed_generated_at": "2026-08-21T15:54:49.887336+08:00",
+    "feed_generated_at": "2026-08-24T09:37:24.249560+08:00",
     "feed_stale": false,
-    "formal_close_age_trading_days": 0,
-    "formal_close_ready": true,
-    "formal_close_stale": false,
+    "formal_close_age_trading_days": 1,
+    "formal_close_ready": false,
+    "formal_close_stale": true,
     "latest_formal_close_date": "2026-08-21",
-    "latest_slot": "1520_DISCOVERY",
-    "market_data_stale": true,
-    "market_snapshot_age_seconds": 2559.092482,
-    "market_snapshot_as_of": "2026-08-21T15:12:10.794854+08:00",
-    "market_snapshot_stale": true,
-    "stale": true,
+    "latest_slot": "0933",
+    "market_data_stale": false,
+    "market_snapshot_age_seconds": 83.893576,
+    "market_snapshot_as_of": "2026-08-24T09:36:00.355984+08:00",
+    "market_snapshot_stale": false,
+    "stale": false,
     "stale_semantics": "DEPRECATED_ALIAS_OF_market_data_stale"
   },
-  "generated_at": "2026-08-21T15:54:49.887336+08:00",
-  "latest_run_id": "20260821-1520-DISCOVERY-v1",
-  "latest_slot": "1520_DISCOVERY",
-  "market_snapshot_age_seconds_at_publish": 2559.092482,
-  "marketdata_status": "STALE",
+  "generated_at": "2026-08-24T09:37:24.249560+08:00",
+  "latest_run_id": "20260824-0933-AQS-MD-v1",
+  "latest_slot": "0933",
+  "market_snapshot_age_seconds_at_publish": 83.893576,
+  "marketdata_status": "READY",
   "research_actionable": true,
   "research_status": "READY",
   "research_usable": true,
   "sample_status": {
     "eligible_for_forward_metrics": false,
     "formal_forward_sample": false,
-    "forward_sample": true,
-    "run_type": "FORWARD_DISCOVERY",
+    "forward_sample": false,
+    "run_type": null,
     "validation_only": false
   },
   "schema_version": "1.1",
-  "warnings": [
-    "HISTORY_CONTINUITY_NOT_READY",
-    "PRICE_HISTORY_INTEGRITY_DEGRADED"
-  ]
+  "warnings": []
 }
