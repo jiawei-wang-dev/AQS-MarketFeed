@@ -2,16 +2,16 @@
 
 ## 1. System Health
 
-- Run: 20260824-0933-AQS-MD-v1 (0933)
+- Run: 20260827-1510-AQS-MD-v1 (1510)
 - Run type: None; validation_only=False; eligible_for_forward_metrics=False
-- Feed generated: 2026-08-26T15:36:21.940644+08:00; feed age=0.0 seconds
-- Market snapshot: 2026-08-24T09:36:00.355984+08:00; market age=194421.58466 seconds; stale=True
-- Formal close: FAILED_AFTER_CUTOFF; baseline=2026-08-21
+- Feed generated: 2026-08-27T15:17:10.042731+08:00; feed age=0.0 seconds
+- Market snapshot: 2026-08-27T15:15:47.294105+08:00; market age=82.748626 seconds; stale=False
+- Formal close: SUCCESS; baseline=2026-08-27
 - Research actionable: True; execution usable: False
 
 ## 2. Market State
 
-- Breadth: STRONG (56.56%; 3138 up / 2104 down / 306 flat)
+- Breadth: STRONG (61.150000000000006%; 3393 up / 1944 down / 212 flat)
 - Daily leaders: 
 - Trend leaders: 
 - Improving: None
@@ -31,11 +31,6 @@
 
 ## 6. Next-Day Watchlist
 
-- 翔鹭钨业 002842 — READY_FOR_CONFIRMATION
-- 拓斯达 300607 — READY_FOR_CONFIRMATION
-- 五洋自控 300420 — READY_FOR_CONFIRMATION
-- XD金徽股 603132 — READY_FOR_CONFIRMATION
-- 景旺电子 603228 — READY_FOR_CONFIRMATION
 
 ## 7. Data Limitations
 
