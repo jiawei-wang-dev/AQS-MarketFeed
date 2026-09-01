@@ -1,18 +1,18 @@
 {
-  "brief_sha256": "f525dc7f00f438991ce512757f943983aca38241c9d140ed77029e4df4586f5a",
-  "bundle_html_sha256": "c3c37668da712058fc59c4110e7508e1671337c4ac733eaf800109b811db4b24",
-  "bundle_sha256": "33660afdea9ca19a0a5cf6c42b0b6155f6f1a6c4ca6cc0b6c3f0ad293ca1643f",
-  "discovery_as_of": "2026-08-28T15:20:12.410551+08:00",
-  "discovery_usable": true,
+  "brief_sha256": "53bb6d7e9c78811aa6dcac8f268b02a947ef8d37e776ee3f417c5fa2d1afb244",
+  "bundle_html_sha256": "20c02d88f6e4d91788d03459335de2c7c071a738f5d83f8d5c3108de9c60a405",
+  "bundle_sha256": "9bccbb178af8ad7157e9070d28b6b8422b410fe19b9b97166ff8a4548e3d6ebd",
+  "discovery_as_of": null,
+  "discovery_usable": false,
   "execution_usable": false,
   "feed_version": "MARKET-FEED-v2",
   "formal_close_date": "2026-08-28",
-  "generated_at": "2026-08-28T15:21:16.700099+08:00",
-  "health_html_sha256": "ba1124cec8eda9103e817107db4fd6844697362c765fe8e6b81311f9b321babb",
-  "market_as_of": "2026-08-28T15:11:53.534927+08:00",
+  "generated_at": "2026-09-01T14:33:16.656741+08:00",
+  "health_html_sha256": "618e001fbf7f6df2dba09473272cb70c70bbac3ed9f50d6ed0089d16ef236a11",
+  "market_as_of": "2026-09-01T14:31:09.840831+08:00",
   "privacy_scan": "PASS",
   "research_usable": true,
-  "run_id": "20260828-1520-DISCOVERY-v1",
+  "run_id": "20260901-1428-AQS-MD-v1",
   "schema_version": "1.1",
-  "slot": "1520_DISCOVERY"
+  "slot": "1428"
 }
