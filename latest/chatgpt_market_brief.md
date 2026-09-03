@@ -2,16 +2,16 @@
 
 ## 1. System Health
 
-- Run: 20260903-1428-AQS-MD-v1 (1428)
+- Run: 20260903-1510-AQS-MD-v1 (1510)
 - Run type: None; validation_only=False; eligible_for_forward_metrics=False
-- Feed generated: 2026-09-03T14:32:19.118670+08:00; feed age=0.0 seconds
-- Market snapshot: 2026-09-03T14:31:37.299104+08:00; market age=41.819566 seconds; stale=False
-- Formal close: WAITING; baseline=2026-09-02
+- Feed generated: 2026-09-03T15:29:55.258650+08:00; feed age=0.0 seconds
+- Market snapshot: 2026-09-03T15:28:27.836938+08:00; market age=87.421712 seconds; stale=False
+- Formal close: SUCCESS; baseline=2026-09-03
 - Research actionable: True; execution usable: False
 
 ## 2. Market State
 
-- Breadth: WEAK (40.64%; 2257 up / 3148 down / 149 flat)
+- Breadth: WEAK (33.22%; 1845 up / 3570 down / 139 flat)
 - Daily leaders: 
 - Trend leaders: 
 - Improving: None
@@ -31,11 +31,6 @@
 
 ## 6. Next-Day Watchlist
 
-- 岭南控股 000524 — READY_FOR_CONFIRMATION
-- 恒逸石化 000703 — READY_FOR_CONFIRMATION
-- 宁波中百 600857 — READY_FOR_CONFIRMATION
-- 浩物股份 000757 — READY_FOR_CONFIRMATION
-- 曲美家居 603818 — READY_FOR_CONFIRMATION
 
 ## 7. Data Limitations
 
