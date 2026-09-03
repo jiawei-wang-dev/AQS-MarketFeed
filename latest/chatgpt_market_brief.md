@@ -2,16 +2,16 @@
 
 ## 1. System Health
 
-- Run: 20260903-0933-AQS-MD-v1 (0933)
+- Run: 20260903-1428-AQS-MD-v1 (1428)
 - Run type: None; validation_only=False; eligible_for_forward_metrics=False
-- Feed generated: 2026-09-03T09:36:31.558479+08:00; feed age=0.0 seconds
-- Market snapshot: 2026-09-03T09:35:45.357914+08:00; market age=46.200565 seconds; stale=False
+- Feed generated: 2026-09-03T14:32:19.118670+08:00; feed age=0.0 seconds
+- Market snapshot: 2026-09-03T14:31:37.299104+08:00; market age=41.819566 seconds; stale=False
 - Formal close: WAITING; baseline=2026-09-02
 - Research actionable: True; execution usable: False
 
 ## 2. Market State
 
-- Breadth: STRONG (67.65%; 3703 up / 1471 down / 300 flat)
+- Breadth: WEAK (40.64%; 2257 up / 3148 down / 149 flat)
 - Daily leaders: 
 - Trend leaders: 
 - Improving: None
