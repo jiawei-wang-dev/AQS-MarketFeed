@@ -2,16 +2,16 @@
 
 ## 1. System Health
 
-- Run: 20260907-1428-AQS-MD-v1 (1428)
+- Run: 20260907-1510-AQS-MD-v1 (1510)
 - Run type: None; validation_only=False; eligible_for_forward_metrics=False
-- Feed generated: 2026-09-07T15:07:13.575758+08:00; feed age=0.0 seconds
-- Market snapshot: 2026-09-07T15:06:19.869386+08:00; market age=53.706372 seconds; stale=False
-- Formal close: WAITING; baseline=2026-09-04
+- Feed generated: 2026-09-07T15:13:57.045076+08:00; feed age=0.0 seconds
+- Market snapshot: 2026-09-07T15:12:22.419811+08:00; market age=94.625265 seconds; stale=False
+- Formal close: SUCCESS; baseline=2026-09-07
 - Research actionable: True; execution usable: False
 
 ## 2. Market State
 
-- Breadth: STRONG (57.010000000000005%; 3168 up / 2197 down / 192 flat)
+- Breadth: STRONG (56.97%; 3166 up / 2196 down / 195 flat)
 - Daily leaders: 
 - Trend leaders: 
 - Improving: None
@@ -31,11 +31,6 @@
 
 ## 6. Next-Day Watchlist
 
-- 宁波中百 600857 — READY_FOR_CONFIRMATION
-- 中粮糖业 600737 — READY_FOR_CONFIRMATION
-- 黑芝麻 000716 — READY_FOR_CONFIRMATION
-- 新农开发 600359 — READY_FOR_CONFIRMATION
-- 莲花控股 600186 — READY_FOR_CONFIRMATION
 
 ## 7. Data Limitations
 
