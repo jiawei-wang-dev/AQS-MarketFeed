@@ -2,16 +2,16 @@
 
 ## 1. System Health
 
-- Run: 20260914-1428-AQS-MD-v1 (1428)
+- Run: 20260914-1510-AQS-MD-v1 (1510)
 - Run type: None; validation_only=False; eligible_for_forward_metrics=False
-- Feed generated: 2026-09-14T14:32:07.667477+08:00; feed age=0.0 seconds
-- Market snapshot: 2026-09-14T14:31:20.711551+08:00; market age=46.955926 seconds; stale=False
-- Formal close: WAITING; baseline=2026-09-11
+- Feed generated: 2026-09-14T15:13:27.908633+08:00; feed age=0.0 seconds
+- Market snapshot: 2026-09-14T15:11:57.945544+08:00; market age=89.963089 seconds; stale=False
+- Formal close: SUCCESS; baseline=2026-09-14
 - Research actionable: True; execution usable: False
 
 ## 2. Market State
 
-- Breadth: BALANCED (54.949999999999996%; 3056 up / 2298 down / 207 flat)
+- Breadth: STRONG (56.19%; 3125 up / 2224 down / 212 flat)
 - Daily leaders: 
 - Trend leaders: 
 - Improving: None
@@ -31,11 +31,6 @@
 
 ## 6. Next-Day Watchlist
 
-- 郴电国际 600969 — READY_FOR_CONFIRMATION
-- 远大控股 000626 — READY_FOR_CONFIRMATION
-- 长春燃气 600333 — READY_FOR_CONFIRMATION
-- 新奥股份 600803 — READY_FOR_CONFIRMATION
-- 国睿科技 600562 — READY_FOR_CONFIRMATION
 
 ## 7. Data Limitations
 
