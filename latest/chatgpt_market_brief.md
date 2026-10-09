@@ -4,10 +4,10 @@
 
 - Run: 20261008-1520-DISCOVERY-v1 (1520_DISCOVERY)
 - Run type: FORWARD_DISCOVERY; validation_only=False; eligible_for_forward_metrics=True
-- Feed generated: 2026-10-08T15:21:08.116441+08:00; feed age=0.0 seconds
-- Market snapshot: 2026-10-08T15:12:38.032335+08:00; market age=510.084106 seconds; stale=True
+- Feed generated: 2026-10-09T20:54:29.246388+08:00; feed age=0.0 seconds
+- Market snapshot: 2026-10-08T15:12:38.032335+08:00; market age=106911.214053 seconds; stale=True
 - Formal close: SUCCESS; baseline=2026-10-08
-- Research actionable: True; execution usable: False
+- Research actionable: False; execution usable: False
 
 ## 2. Market State
 
