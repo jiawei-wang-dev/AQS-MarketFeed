@@ -1,6 +1,6 @@
 {
-  "age_seconds_at_publish": 63.336836,
-  "as_of": "2026-10-16T09:35:32.795229+08:00",
+  "age_seconds_at_publish": 101.527853,
+  "as_of": "2026-10-16T14:32:11.455415+08:00",
   "close_state": "NOT_READY",
   "consumer_guidance": {
     "delivery_routes": {
@@ -26,8 +26,8 @@
       "brief_optional"
     ],
     "replay_warning": "REPLAY_VALIDATION is validation evidence only and is never eligible for forward metrics.",
-    "research_actionable": true,
-    "research_usable": true
+    "research_actionable": false,
+    "research_usable": false
   },
   "delivery_routes": {
     "backup": {
@@ -46,7 +46,7 @@
   "delivery_status": "PASS",
   "discovery_status": "DEGRADED",
   "discovery_usable": false,
-  "end_to_end_status": "READY",
+  "end_to_end_status": "DEGRADED",
   "execution_status": "LOW",
   "execution_usable": false,
   "feed_age_seconds_at_publish": 0.0,
@@ -58,37 +58,37 @@
     "cutoff_at": "2026-10-16T17:30:00+08:00",
     "failure_reason": null,
     "final_status": "WAITING",
-    "initial_attempt_at": "2026-10-16T09:35:32.795229+08:00",
-    "last_attempt_at": "2026-10-16T09:35:32.795229+08:00",
+    "initial_attempt_at": "2026-10-16T14:32:11.455415+08:00",
+    "last_attempt_at": "2026-10-16T14:32:11.455415+08:00",
     "next_retry_at": null,
     "retry_count": 0
   },
   "formal_close_ready": false,
   "freshness": {
-    "expected_slot": "0933",
+    "expected_slot": "1428",
     "feed_age_seconds": 0.0,
-    "feed_generated_at": "2026-10-16T09:36:36.132065+08:00",
+    "feed_generated_at": "2026-10-16T14:33:52.983268+08:00",
     "feed_stale": false,
     "formal_close_age_trading_days": 1,
     "formal_close_ready": false,
     "formal_close_stale": true,
     "latest_formal_close_date": "2026-10-15",
-    "latest_slot": "0933",
+    "latest_slot": "1428",
     "market_data_stale": false,
-    "market_snapshot_age_seconds": 63.336836,
-    "market_snapshot_as_of": "2026-10-16T09:35:32.795229+08:00",
+    "market_snapshot_age_seconds": 101.527853,
+    "market_snapshot_as_of": "2026-10-16T14:32:11.455415+08:00",
     "market_snapshot_stale": false,
     "stale": false,
     "stale_semantics": "DEPRECATED_ALIAS_OF_market_data_stale"
   },
-  "generated_at": "2026-10-16T09:36:36.132065+08:00",
-  "latest_run_id": "20261016-0933-AQS-MD-v1",
-  "latest_slot": "0933",
-  "market_snapshot_age_seconds_at_publish": 63.336836,
-  "marketdata_status": "READY",
-  "research_actionable": true,
-  "research_status": "READY",
-  "research_usable": true,
+  "generated_at": "2026-10-16T14:33:52.983268+08:00",
+  "latest_run_id": "20261016-1428-AQS-MD-v1",
+  "latest_slot": "1428",
+  "market_snapshot_age_seconds_at_publish": 101.527853,
+  "marketdata_status": "DEGRADED",
+  "research_actionable": false,
+  "research_status": "DEGRADED",
+  "research_usable": false,
   "sample_status": {
     "eligible_for_forward_metrics": false,
     "formal_forward_sample": false,
