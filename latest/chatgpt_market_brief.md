@@ -2,16 +2,16 @@
 
 ## 1. System Health
 
-- Run: 20261022-1428-AQS-MD-v1 (1428)
+- Run: 20261022-1510-AQS-MD-v1 (1510)
 - Run type: None; validation_only=False; eligible_for_forward_metrics=False
-- Feed generated: 2026-10-22T14:31:00.220789+08:00; feed age=0.0 seconds
-- Market snapshot: 2026-10-22T14:30:15.439097+08:00; market age=44.781692 seconds; stale=False
-- Formal close: WAITING; baseline=2026-10-21
+- Feed generated: 2026-10-22T15:18:31.751545+08:00; feed age=0.0 seconds
+- Market snapshot: 2026-10-22T15:15:23.838156+08:00; market age=187.913389 seconds; stale=False
+- Formal close: SUCCESS; baseline=2026-10-22
 - Research actionable: True; execution usable: False
 
 ## 2. Market State
 
-- Breadth: WEAK (12.16%; 678 up / 4844 down / 54 flat)
+- Breadth: WEAK (9.59%; 535 up / 4998 down / 43 flat)
 - Daily leaders: 
 - Trend leaders: 
 - Improving: None
@@ -31,11 +31,6 @@
 
 ## 6. Next-Day Watchlist
 
-- 掌阅科技 603533 — READY_FOR_CONFIRMATION
-- 上海电影 601595 — READY_FOR_CONFIRMATION
-- 大智慧 601519 — READY_FOR_CONFIRMATION
-- 荣信文化 301231 — READY_FOR_CONFIRMATION
-- 捷成股份 300182 — READY_FOR_CONFIRMATION
 
 ## 7. Data Limitations
 
