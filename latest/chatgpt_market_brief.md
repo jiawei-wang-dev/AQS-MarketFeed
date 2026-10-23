@@ -2,16 +2,16 @@
 
 ## 1. System Health
 
-- Run: 20261023-1428-AQS-MD-v1 (1428)
+- Run: 20261023-1510-AQS-MD-v1 (1510)
 - Run type: None; validation_only=False; eligible_for_forward_metrics=False
-- Feed generated: 2026-10-23T14:31:22.570703+08:00; feed age=0.0 seconds
-- Market snapshot: 2026-10-23T14:30:30.508993+08:00; market age=52.06171 seconds; stale=False
-- Formal close: WAITING; baseline=2026-10-22
+- Feed generated: 2026-10-23T15:14:06.163851+08:00; feed age=0.0 seconds
+- Market snapshot: 2026-10-23T15:12:16.063667+08:00; market age=110.100184 seconds; stale=False
+- Formal close: SUCCESS; baseline=2026-10-23
 - Research actionable: True; execution usable: False
 
 ## 2. Market State
 
-- Breadth: STRONG (76.92999999999999%; 4228 up / 1131 down / 137 flat)
+- Breadth: STRONG (81.15%; 4525 up / 909 down / 142 flat)
 - Daily leaders: 
 - Trend leaders: 
 - Improving: None
@@ -31,11 +31,6 @@
 
 ## 6. Next-Day Watchlist
 
-- 交通银行 601328 — READY_FOR_CONFIRMATION
-- 昆船智能 301311 — READY_FOR_CONFIRMATION
-- 建设银行 601939 — READY_FOR_CONFIRMATION
-- 工商银行 601398 — READY_FOR_CONFIRMATION
-- 中国银行 601988 — READY_FOR_CONFIRMATION
 
 ## 7. Data Limitations
 
