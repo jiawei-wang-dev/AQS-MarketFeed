@@ -2,13 +2,13 @@
 <html><head><meta charset="utf-8"><title>AQS Health</title></head><body><h1>AQS Market Feed Health</h1><dl><dt>latest_run_id</dt><dd>&quot;20261029-1510-AQS-MD-v1&quot;</dd>
 <dt>latest_slot</dt><dd>&quot;1510&quot;</dd>
 <dt>as_of</dt><dd>&quot;2026-10-29T15:11:39.585447+08:00&quot;</dd>
-<dt>freshness</dt><dd>{&quot;feed_generated_at&quot;: &quot;2026-10-29T15:13:12.583743+08:00&quot;, &quot;feed_age_seconds&quot;: 0.0, &quot;feed_stale&quot;: false, &quot;market_snapshot_as_of&quot;: &quot;2026-10-29T15:11:39.585447+08:00&quot;, &quot;market_snapshot_age_seconds&quot;: 92.998296, &quot;market_snapshot_stale&quot;: false, &quot;market_data_stale&quot;: false, &quot;latest_formal_close_date&quot;: &quot;2026-10-23&quot;, &quot;formal_close_age_trading_days&quot;: 4, &quot;formal_close_ready&quot;: false, &quot;formal_close_stale&quot;: true, &quot;expected_slot&quot;: &quot;1510&quot;, &quot;latest_slot&quot;: &quot;1510&quot;, &quot;stale&quot;: false, &quot;stale_semantics&quot;: &quot;DEPRECATED_ALIAS_OF_market_data_stale&quot;}</dd>
+<dt>freshness</dt><dd>{&quot;feed_generated_at&quot;: &quot;2026-10-29T15:17:46.113298+08:00&quot;, &quot;feed_age_seconds&quot;: 0.0, &quot;feed_stale&quot;: false, &quot;market_snapshot_as_of&quot;: &quot;2026-10-29T15:11:39.585447+08:00&quot;, &quot;market_snapshot_age_seconds&quot;: 366.527851, &quot;market_snapshot_stale&quot;: true, &quot;market_data_stale&quot;: true, &quot;latest_formal_close_date&quot;: &quot;2026-10-29&quot;, &quot;formal_close_age_trading_days&quot;: 0, &quot;formal_close_ready&quot;: false, &quot;formal_close_stale&quot;: false, &quot;expected_slot&quot;: &quot;1510&quot;, &quot;latest_slot&quot;: &quot;1510&quot;, &quot;stale&quot;: true, &quot;stale_semantics&quot;: &quot;DEPRECATED_ALIAS_OF_market_data_stale&quot;}</dd>
 <dt>research_status</dt><dd>&quot;DEGRADED&quot;</dd>
 <dt>discovery_status</dt><dd>&quot;DEGRADED&quot;</dd>
 <dt>formal_close_ready</dt><dd>false</dd>
 <dt>execution_status</dt><dd>&quot;LOW&quot;</dd>
 <dt>delivery_status</dt><dd>&quot;PASS&quot;</dd></dl><pre id="aqs-health-json">{
-  "age_seconds_at_publish": 92.998296,
+  "age_seconds_at_publish": 366.527851,
   "as_of": "2026-10-29T15:11:39.585447+08:00",
   "close_state": "NOT_READY",
   "consumer_guidance": {
@@ -62,13 +62,13 @@
   "feed_status": "PASS",
   "feed_version": "MARKET-FEED-v2",
   "formal_close": {
-    "baseline_committed": false,
-    "baseline_date": "2026-10-23",
+    "baseline_committed": true,
+    "baseline_date": "2026-10-29",
     "cutoff_at": "2026-10-29T17:30:00+08:00",
     "failure_reason": "FORMAL_BAR_COVERAGE_LOW",
-    "final_status": "WAITING",
+    "final_status": "RETRYING",
     "initial_attempt_at": "2026-10-29T15:12:17.712331+08:00",
-    "last_attempt_at": "2026-10-29T15:12:17.712331+08:00",
+    "last_attempt_at": "2026-10-29T15:15:57.432428+08:00",
     "next_retry_at": "2026-10-29T15:15:00+08:00",
     "retry_count": 0
   },
@@ -76,25 +76,25 @@
   "freshness": {
     "expected_slot": "1510",
     "feed_age_seconds": 0.0,
-    "feed_generated_at": "2026-10-29T15:13:12.583743+08:00",
+    "feed_generated_at": "2026-10-29T15:17:46.113298+08:00",
     "feed_stale": false,
-    "formal_close_age_trading_days": 4,
+    "formal_close_age_trading_days": 0,
     "formal_close_ready": false,
-    "formal_close_stale": true,
-    "latest_formal_close_date": "2026-10-23",
+    "formal_close_stale": false,
+    "latest_formal_close_date": "2026-10-29",
     "latest_slot": "1510",
-    "market_data_stale": false,
-    "market_snapshot_age_seconds": 92.998296,
+    "market_data_stale": true,
+    "market_snapshot_age_seconds": 366.527851,
     "market_snapshot_as_of": "2026-10-29T15:11:39.585447+08:00",
-    "market_snapshot_stale": false,
-    "stale": false,
+    "market_snapshot_stale": true,
+    "stale": true,
     "stale_semantics": "DEPRECATED_ALIAS_OF_market_data_stale"
   },
-  "generated_at": "2026-10-29T15:13:12.583743+08:00",
+  "generated_at": "2026-10-29T15:17:46.113298+08:00",
   "latest_run_id": "20261029-1510-AQS-MD-v1",
   "latest_slot": "1510",
-  "market_snapshot_age_seconds_at_publish": 92.998296,
-  "marketdata_status": "DEGRADED",
+  "market_snapshot_age_seconds_at_publish": 366.527851,
+  "marketdata_status": "STALE",
   "research_actionable": false,
   "research_status": "DEGRADED",
   "research_usable": false,
