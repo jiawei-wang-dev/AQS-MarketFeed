@@ -2,16 +2,16 @@
 
 ## 1. System Health
 
-- Run: 20261102-1428-AQS-MD-v1 (1428)
+- Run: 20261102-1510-AQS-MD-v1 (1510)
 - Run type: None; validation_only=False; eligible_for_forward_metrics=False
-- Feed generated: 2026-11-02T14:31:31.859993+08:00; feed age=0.0 seconds
-- Market snapshot: 2026-11-02T14:29:53.200568+08:00; market age=98.659425 seconds; stale=False
+- Feed generated: 2026-11-02T15:16:34.614772+08:00; feed age=0.0 seconds
+- Market snapshot: 2026-11-02T15:11:44.395655+08:00; market age=290.219117 seconds; stale=False
 - Formal close: WAITING; baseline=2026-10-30
 - Research actionable: False; execution usable: False
 
 ## 2. Market State
 
-- Breadth: STRONG (83.17999999999999%; 4634 up / 854 down / 83 flat)
+- Breadth: STRONG (83.99%; 4681 up / 818 down / 74 flat)
 - Daily leaders: 
 - Trend leaders: 
 - Improving: None
@@ -31,11 +31,6 @@
 
 ## 6. Next-Day Watchlist
 
-- 益丰药房 603939 — READY_FOR_CONFIRMATION
-- 交通银行 601328 — READY_FOR_CONFIRMATION
-- 煌上煌 002695 — READY_FOR_CONFIRMATION
-- 金达威 002626 — READY_FOR_CONFIRMATION
-- 伊利股份 600887 — READY_FOR_CONFIRMATION
 
 ## 7. Data Limitations
 
