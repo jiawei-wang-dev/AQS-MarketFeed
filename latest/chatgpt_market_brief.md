@@ -4,8 +4,8 @@
 
 - Run: 20261106-1520-DISCOVERY-v1 (1520_DISCOVERY)
 - Run type: FORWARD_DISCOVERY; validation_only=False; eligible_for_forward_metrics=False
-- Feed generated: 2026-11-06T15:24:56.814620+08:00; feed age=0.0 seconds
-- Market snapshot: 2026-11-06T15:12:05.796363+08:00; market age=771.018257 seconds; stale=True
+- Feed generated: 2026-11-09T17:43:45.593414+08:00; feed age=0.0 seconds
+- Market snapshot: 2026-11-06T15:12:05.796363+08:00; market age=268299.797051 seconds; stale=True
 - Formal close: SUCCESS; baseline=2026-11-06
 - Research actionable: False; execution usable: False
 
