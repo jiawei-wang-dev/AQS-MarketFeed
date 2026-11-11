@@ -4,9 +4,9 @@
 
 - Run: 20261111-1510-AQS-MD-v1 (1510)
 - Run type: None; validation_only=False; eligible_for_forward_metrics=False
-- Feed generated: 2026-11-11T15:16:30.356449+08:00; feed age=0.0 seconds
-- Market snapshot: 2026-11-11T15:12:05.337829+08:00; market age=265.01862 seconds; stale=False
-- Formal close: WAITING; baseline=2026-11-10
+- Feed generated: 2026-11-11T15:20:36.033983+08:00; feed age=0.0 seconds
+- Market snapshot: 2026-11-11T15:12:05.337829+08:00; market age=510.696154 seconds; stale=True
+- Formal close: RETRYING; baseline=2026-11-11
 - Research actionable: False; execution usable: False
 
 ## 2. Market State
